@@ -1,3 +1,18 @@
+a {
+    text-decoration: none;
+}
+#bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10px;
+    background-color: #42B6F3;
+}
+
 body {
-    background-color: black;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
 }
