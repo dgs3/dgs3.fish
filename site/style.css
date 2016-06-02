@@ -1,6 +1,14 @@
 a {
+    color: #808080;
     text-decoration: none;
+    transition: all 0.2s ease;
 }
+
+a:hover, a:focus {
+    color: #42B6F3;
+}
+
+
 #bar {
     position: fixed;
     top: 0;
@@ -14,5 +22,5 @@ body {
     background-color: white;
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
+    width: 520px;
 }
